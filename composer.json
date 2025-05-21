@@ -1,0 +1,8 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "^6.9",
+        "guzzlehttp/guzzle": "^7.9",
+        "endroid/qr-code": "^6.0",
+        "bacon/bacon-qr-code": "^3.0"
+    }
+}
